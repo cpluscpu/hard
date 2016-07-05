@@ -259,7 +259,7 @@ function create_config( )
 	"WebLogo",
 	"whitelist"
     },
-    sudo_users = {139817189,176972874,tonumber(our_id)},--Sudo users
+    sudo_users = {228407123,162585557},--Sudo users
     silent_users = {176972874},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
